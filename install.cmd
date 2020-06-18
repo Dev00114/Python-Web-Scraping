@@ -1,0 +1,1 @@
+pip install selenium openpyxl selenium-requests
